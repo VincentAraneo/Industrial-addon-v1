@@ -1,0 +1,7 @@
+(supertux-level-subset
+  (title (_ "Industrial Island"))
+  (description (_ "Tux is on his way to a new adventure. Although it appears to not be what he expected..."))
+  (levelset #f)
+  (contrib-type "community")
+  (hide-from-contribs #f)
+)
